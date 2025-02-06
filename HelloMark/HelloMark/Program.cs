@@ -12,6 +12,8 @@ namespace HelloMark
         {
             Console.WriteLine("Hello Mark!");
             Console.ReadLine();
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
 
         }
     }
